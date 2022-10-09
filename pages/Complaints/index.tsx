@@ -32,7 +32,7 @@ const index: NextPage = (props) => {
 	return (
 		<div className="">
 			<NavBar hasWhiteText={true} />
-			<div className="relative w-full mt-[73px] bg-eccblue text-white text-center">
+			<div className="relative w-full pt-[73px] bg-eccblue text-white text-center">
 				<div className="mx-9 pt-24 pb-44">
 					<p className="text-2xl sm:text-5xl max-w-[513px] mx-auto font-semibold">
 						Complaints from the <br /> people
